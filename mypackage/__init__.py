@@ -1,1 +1,1 @@
-from . import myFunction
+from . import myModule
